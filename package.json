@@ -1,0 +1,18 @@
+{
+  "name": "ulibs-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ulibs/ui": "^0.0.2-next.28",
+    "express": "^4.18.2",
+    "jsdom": "^22.1.0"
+  }
+}
